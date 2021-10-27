@@ -1,5 +1,5 @@
-'''CMs''' = communication projects
+**CMs** = *communication projects*
 
-OT = other
+**OT** = *other projects*
 
-You need to check one by one.
+*You need to check one by one.*

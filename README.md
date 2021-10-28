@@ -2,7 +2,7 @@
 
 **CMs** = *communication projects*
 
-**OT** = *other projects*
+**OTs** = *other projects*
 
 *You need to check one by one.*
 

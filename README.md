@@ -13,3 +13,5 @@
 **How To Install CismoCom Library?**
 
     git clone https://github.com/MimoTheCat/Projects/targeted.zip
+
+*From Me* **Mimo**
